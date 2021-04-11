@@ -1,0 +1,21 @@
+body{
+    background-image: url('fusion-medical-animation-rnr8D3FNUNY-unsplash.jpg');
+}
+#a{
+    text-align: center;
+}
+#b , #c , #d , #e {
+    display: inline;
+}
+#f{
+    background-color: rgb(128, 201, 211);
+}
+#i{
+    background-color: blue;
+}
+#z{
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    text-decoration-color: cornsilk;
+}
